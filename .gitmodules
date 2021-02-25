@@ -1,3 +1,6 @@
 [submodule "fe"]
 	path = fe
 	url = git@github.com:N1cksoN/mortgage-calculator-fe.git
+[submodule "mortgage-calculator-fe"]
+	path = mortgage-calculator-fe
+	url = git@github.com:N1cksoN/mortgage-calculator-fe.git
